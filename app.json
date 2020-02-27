@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Beauty App",
+    "slug": "BeautyApp",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "ios": {
+      "bundleIdentifier": "com.hexagonal.beautyapp" ,
+      "googleServicesFile" : "./google/GoogleService-Info.plist" ,
+      "supportsTablet": true  ,
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.477417606414-44tbdtv4vfd7kal4djmnd9dmv10u0ler"
+        }
+      }
+    },
+    "android": {
+      "package": "com.hexagonal.beautyapp" ,
+      "googleServicesFile" : "./google/google-services.json" ,
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDUwtv5G3CPXGR9l-HC4c1SWEKbS9PTY-A"
+        }
+      }
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#F5F5F5"
+      
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

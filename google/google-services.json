@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477417606414",
+    "firebase_url": "https://glamb-2997d.firebaseio.com",
+    "project_id": "glamb-2997d",
+    "storage_bucket": "glamb-2997d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477417606414:android:18d5c186919a085ff85b5f",
+        "android_client_info": {
+          "package_name": "com.hexagonal.beautyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477417606414-1l3q2as7nm3qk302tcgtqrod9tadj1vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBShoY5MOCh4opJjS2SZ8itDcv8I7mfHX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477417606414-1l3q2as7nm3qk302tcgtqrod9tadj1vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
